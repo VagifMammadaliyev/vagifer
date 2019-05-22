@@ -6,7 +6,7 @@ Create your own `Painter` that will fill your frame (image) with pixels. `Painte
 
 Quick start:
 ```bash
-git clone 'link' vagifer/
+git clone 'https://github.com/VagifMammadaliyev/vagifer' vagifer/
 cd vagifer/src/
 python3 test.py
 ```
